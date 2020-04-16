@@ -20,5 +20,5 @@ Ordered List (Using Numbers)
 3. Random 3<br/><br/>
 
 ### Images
-[Test Image]
+![](https://github.com/Archie722/My_User_Guides/blob/master/Test_picture.jpg)
 
