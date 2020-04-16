@@ -1,10 +1,14 @@
+''' 
+code block 
+'''
+
 How to make a Python program executable in terminal just by typing the name of the file as a command<br/>
 <br/>
 from any directory<br/>
 <br/>
 1. Create a folder to store the programs, eg:<br/>
 <br/>
-**/Users/User/bin<br/>** 
+'''/Users/User/bin'''<br/>
 <br/>
 2. Enter the shebang line on the very first line of the python program.<br/>
 <br/>
