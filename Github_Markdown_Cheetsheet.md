@@ -61,6 +61,17 @@ Header 1 | Header 2| Header 3
 Test1|Test2|Test3
 Random1| Random2|Random3
 
+### Emoji's
+Markdown also supports different Emoji's. Some examples are:<br/><br/>
+:+1:<br/>
+:sparkles:<br/>
+:camel:<br/>
+:tada:<br/>
+:rocket:<br/>
+:metal:<br/>
+:octocat:<br/>
+More found at www.emoji-cheat-sheet.com
+
 
 
 
