@@ -70,6 +70,7 @@ Markdown also supports different Emoji's. Some examples are:<br/><br/>
 :rocket:<br/>
 :metal:<br/>
 :octocat:<br/>
+:bowtie:<br/><br/>
 More found at www.emoji-cheat-sheet.com
 
 
