@@ -1,18 +1,14 @@
-''' 
-code block 
-'''
 
-How to make a Python program executable in terminal just by typing the name of the file as a command<br/>
-<br/>
-from any directory<br/>
+How to make a Python program executable in terminal just by typing the name of the file as a command from any directory<br/>
 <br/>
 1. Create a folder to store the programs, eg:<br/>
 <br/>
-'''/Users/User/bin'''<br/>
+**/Users/User/bin**<br/>
 <br/>
 2. Enter the shebang line on the very first line of the python program.<br/>
 <br/>
 To find where the version of python you are running is, type in terminal:<br/>
+<br/>
 **which python**<br/>
 <br/>
 The Shebang line should look something like:<br/>
@@ -46,7 +42,8 @@ insert this line to the top:<br/>
 <br/>
 **export PATH="/Users/User/bin:$PATH"**<br/>
 <br/>
-(or whatever path to the folder you created)
-5. Now when when you typ the filename in from any directory in terminal it should run that file.<br/>
+(or whatever path to the folder you created)<br/>
+<br/>
+5. Now when when you type the filename in from any directory in terminal it should run that file.<br/>
 <br/>
 Make sure you ‘SAVE AS’ the file without the .py extension, otherwise you will have to type filename.py to run the command
